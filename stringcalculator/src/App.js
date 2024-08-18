@@ -1,8 +1,7 @@
-import logo from "./logo.svg";
 import "./App.css";
-
+import StringCalculator from "./components/StringCalculator";
 function App() {
-  return <h1>WelCome to String Calculator</h1>;
+  return <StringCalculator />;
 }
 
 export default App;
