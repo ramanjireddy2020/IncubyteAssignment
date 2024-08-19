@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IncubyteAssignment/stringcalculator/static/css/main.f855e6bc.css",
+    "main.js": "/IncubyteAssignment/stringcalculator/static/js/main.72267186.js",
+    "static/js/453.9819d916.chunk.js": "/IncubyteAssignment/stringcalculator/static/js/453.9819d916.chunk.js",
+    "index.html": "/IncubyteAssignment/stringcalculator/index.html",
+    "main.f855e6bc.css.map": "/IncubyteAssignment/stringcalculator/static/css/main.f855e6bc.css.map",
+    "main.72267186.js.map": "/IncubyteAssignment/stringcalculator/static/js/main.72267186.js.map",
+    "453.9819d916.chunk.js.map": "/IncubyteAssignment/stringcalculator/static/js/453.9819d916.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.72267186.js"
+  ]
+}
